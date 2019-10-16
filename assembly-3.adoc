@@ -1,0 +1,9 @@
+:parent-context: {context}
+
+[id="assembly-3-{context}"]
+= Assembly 3
+:context: assembly-3
+
+include::docs/modules/submodules/subsubmodules/module-f.adoc[leveloffset=+1]
+
+:context: {parent-context}

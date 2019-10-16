@@ -1,0 +1,4 @@
+[id="module-f-{context}"]
+= Module F
+
+This is module F. Its ID is `module-f-assembly-1` in Assembly 1, but `module-f-assembly-2` in Assembly 2.
